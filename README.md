@@ -53,11 +53,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href='https://www.loom.com/share/471b98801bc34a34a4357362dc1f3cec' target='_blank' rel='noopener noreferrer'>
-  <img src='https://cdn.loom.com/sessions/thumbnails/471b98801bc34a34a4357362dc1f3cec-with-play.gif' alt='Video Walkthrough' width='600' />
-</a>
+[▶️ Watch the Video Walkthrough on Loom](https://www.loom.com/share/471b98801bc34a34a4357362dc1f3cec)
 
-GIF/Video created with Loom
+Video created with Loom.
 
 ## Notes
 
